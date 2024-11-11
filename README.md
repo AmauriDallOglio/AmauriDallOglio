@@ -12,18 +12,15 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e
 - **Banco de Dados**: SQL Server
 - **Ferramentas**: Git, Docker, Azure DevOps
 
-## ✨ Destaques e Estatísticas
-![Amauri Dall'Oglio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriDallOglio&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriDallOglio&layout=compact&theme=radical)
 
 
 ## 📈 Minhas Estatísticas do GitHub
 
-![Amauri Dall'Oglio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriDallOglio&show_icons=true&theme=dark)
+![Amauri Dall'Oglio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriDallOglio&show_icons=true&theme=radical)
 
 ## 📊 Linguagens Mais Usadas
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriDallOglio&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriDallOglio&layout=compact&theme=radical)
 
 ## 🌐 Onde Me Encontrar
 
