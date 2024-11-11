@@ -10,7 +10,8 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e
 - **Linguagens de Programação**: C#, JavaScript, TypeScript, HTML e CSS
 - **Backend**: ASP.NET Core, Entity Framework, MediatR
 - **Banco de Dados**: SQL Server
-- **Ferramentas**: Git, Docker, Azure DevOps
+- **DevOps**: Docker, Kubernetes, Azure DevOps
+- **Ferramentas**: Git, Docker, Git, GitHub, Visual Studio, Postman
 
 
 
@@ -23,8 +24,9 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriDallOglio&layout=compact&theme=radical)
 
 ## 🌐 Onde Me Encontrar
+- 📧 E-mail: amauridalloglio@outlook.com.br
+- 🌐 [LinkedIn](https://www.linkedin.com/in/amauri-dall-oglio-0382b8b8/) 
 
-- [LinkedIn](https://github.com/AmauriDallOglio)
 
 
 ---
