@@ -1,6 +1,9 @@
 # Olá! Eu sou Amauri Dall'Oglio 👋
 
-Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em desenvolvimento backend, especialmente com C# e SQL Server, e também estou constantemente explorando novas ferramentas e tecnologias.
+Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e **arquitetura de sistemas**. Gosto de trabalhar em projetos que impactem diretamente os negócios e tragam inovação.
+
+## 🚀 Tech Stack
+🔹 C# | 🔹 ASP.NET Core | 🔹 Entity Framework | 🔹 SQL Server  🔹 Docker | 🔹 Kubernetes | 🔹 GitHub Actions | 🔹 Azure DevOps
 
 ## 🚀 Minhas Habilidades
 
@@ -8,6 +11,11 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e
 - **Backend**: ASP.NET Core, Entity Framework, MediatR
 - **Banco de Dados**: SQL Server
 - **Ferramentas**: Git, Docker, Azure DevOps
+
+## ✨ Destaques e Estatísticas
+![Amauri Dall'Oglio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriDallOglio&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriDallOglio&layout=compact&theme=radical)
+
 
 ## 📈 Minhas Estatísticas do GitHub
 
