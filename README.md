@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou Amauri Dall'Oglio 👋
 
-<!--
-**AmauriDallOglio/AmauriDallOglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em desenvolvimento backend, especialmente com C# e SQL Server, e também estou constantemente explorando novas ferramentas e tecnologias.
 
-Here are some ideas to get you started:
+## 🚀 Minhas Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens de Programação**: C#, JavaScript, TypeScript, HTML e CSS
+- **Backend**: ASP.NET Core, Entity Framework, MediatR
+- **Banco de Dados**: SQL Server
+- **Ferramentas**: Git, Docker, Azure DevOps
+
+## 📈 Minhas Estatísticas do GitHub
+
+![Amauri Dall'Oglio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriDallOglio&show_icons=true&theme=dark)
+
+## 📊 Linguagens Mais Usadas
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriDallOglio&layout=compact&theme=dark)
+
+## 🌐 Onde Me Encontrar
+
+- [LinkedIn](https://github.com/AmauriDallOglio)
+
+
+---
+
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e contribuir. 😄
