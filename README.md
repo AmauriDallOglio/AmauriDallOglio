@@ -10,9 +10,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e
 - **Linguagens de Programação**: C#, JavaScript, TypeScript, HTML e CSS
 - **Backend**: ASP.NET Core, Entity Framework, MediatR
 - **Banco de Dados**: SQL Server
-- **DevOps**: Docker, Kubernetes, Azure DevOps
-- **Ferramentas**: Git, Docker, Git, GitHub, Visual Studio, Postman
-
+- **DevOps**: Docker, Azure DevOps
 
 
 ## 📈 Minhas Estatísticas do GitHub
