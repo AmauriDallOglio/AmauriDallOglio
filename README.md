@@ -26,8 +26,9 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e
 - 📧 E-mail: amauridalloglio@outlook.com.br
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amauri-dall-oglio-0382b8b8/) 
 
-
-
+ 
 ---
+
+![Contador de Visitas](https://komarev.com/ghpvc/?username=AmauriDallOglio&color=blue)
 
 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e contribuir. 😄
