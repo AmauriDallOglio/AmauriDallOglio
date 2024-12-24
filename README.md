@@ -4,7 +4,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e
 
 ## 📈 Minhas Estatísticas do GitHub
 
-![Amauri Dall'Oglio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriDallOglio&show_icons=true&theme=radical)
+![Amauri Dall'Oglio's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AmauriDallOglio&show_icons=true&theme=radical)
 
 ## 📊 Linguagens Mais Usadas
 
