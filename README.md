@@ -1,6 +1,6 @@
 # Olá! Eu sou Amauri Dall'Oglio 👋
 
-Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e **arquitetura de sistemas**. Gosto de trabalhar em projetos que impactem diretamente os negócios e tragam inovação.
+Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e **arquitetura de sistemas**.
 
 ## 📈 Minhas Estatísticas do GitHub
 
@@ -12,7 +12,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e
 
 
 ## 🚀 Tech Stack
-🔹 C# | 🔹 ASP.NET Core | 🔹 Entity Framework | 🔹 SQL Server  🔹 Docker | 🔹 Kubernetes | 🔹 GitHub Actions | 🔹 Azure DevOps
+🔹 C# 🔹 ASP.NET Core 🔹 Entity Framework 🔹 SQL Server  🔹 Docker 🔹 Azure DevOps
 
 ## 🚀 Minhas Habilidades
 
@@ -31,4 +31,4 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e
 
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=AmauriDallOglio&color=blue)
 
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e contribuir. 😄
+
