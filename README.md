@@ -2,6 +2,11 @@
 
 Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e **arquitetura de sistemas**.
 
+---
+
+![Contador de Visitas](https://komarev.com/ghpvc/?username=AmauriDallOglio&color=blue)
+
+
 ## 📈 Minhas Estatísticas do GitHub
 
 ![Amauri Dall'Oglio's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AmauriDallOglio&show_icons=true&theme=radical)
@@ -27,8 +32,5 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amauri-dall-oglio-0382b8b8/) 
 
  
----
-
-![Contador de Visitas](https://komarev.com/ghpvc/?username=AmauriDallOglio&color=blue)
 
 
