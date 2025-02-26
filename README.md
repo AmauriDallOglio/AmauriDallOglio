@@ -1,4 +1,4 @@
-# Olá! Eu sou Amauri Dall'Oglio!
+# Olá!
 
 
 Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e **arquitetura de sistemas**.
