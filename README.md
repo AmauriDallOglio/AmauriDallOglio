@@ -15,20 +15,16 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em **soluções backend** e
 
 ##   ![Contador de Visitas](https://komarev.com/ghpvc/?username=AmauriDallOglio&color=blue)
   
-## 🚀 Tech Stack
+
 🔹 C# 🔹 ASP.NET Core 🔹 Entity Framework 🔹 SQL Server  🔹 Docker 🔹 Azure DevOps
 
-## 🚀 Minhas Habilidades
+
 
 - **Linguagens de Programação**: C#, JavaScript, TypeScript, HTML e CSS
 - **Backend**: ASP.NET Core, Entity Framework, MediatR
 - **Banco de Dados**: SQL Server
 - **DevOps**: Docker, Azure DevOps
 
-
-## 🌐 Onde Me Encontrar
-- 📧 E-mail: amauridalloglio@outlook.com.br
-- 🌐 [LinkedIn](https://www.linkedin.com/in/amauri-dall-oglio-0382b8b8/) 
 
  
 
